@@ -9,6 +9,7 @@ namespace Application1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("New Data");
         }
     }
 }
