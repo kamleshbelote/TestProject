@@ -1,0 +1,8 @@
+E:\GitHuBDemo\Application1\Application1\bin\Debug\Application1.exe
+E:\GitHuBDemo\Application1\Application1\bin\Debug\Application1.pdb
+E:\GitHuBDemo\Application1\Application1\bin\Debug\HtmlAgilityPack.dll
+E:\GitHuBDemo\Application1\Application1\bin\Debug\HtmlAgilityPack.pdb
+E:\GitHuBDemo\Application1\Application1\bin\Debug\HtmlAgilityPack.xml
+E:\GitHuBDemo\Application1\Application1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GitHuBDemo\Application1\Application1\obj\x86\Debug\Application1.exe
+E:\GitHuBDemo\Application1\Application1\obj\x86\Debug\Application1.pdb
